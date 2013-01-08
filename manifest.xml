@@ -1,0 +1,15 @@
+<package>
+  <description brief="yaml_reader">
+
+     yaml_reader
+
+  </description>
+  <author>Ali Shuja Siddiqui</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/yaml_reader</url>
+  <depend package="roscpp"/>
+
+</package>
+
+
